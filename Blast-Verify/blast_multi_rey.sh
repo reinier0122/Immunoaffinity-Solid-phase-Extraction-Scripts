@@ -10,8 +10,8 @@
 #SBATCH --mail-type=begin,end,fail,requeue
 #SBATCH --mail-user=rswz6@umsystem.edu
 
-export PATH=$PATH:/cluster/VAST/marcjohnson-lab/jkome/BioinformaticTools/ncbi-blast-2.15.0+/bin
-export BLASTDB=/cluster/VAST/marcjohnson-lab/Databases/BLAST/nt
+export PATH=
+export BLASTDB=
 
 # Python is needed only if CONFIG is .xlsx/.csv (for the auto-conversion below).
 # Harmless if it's already a .tsv. Needs pandas+openpyxl for .xlsx:
