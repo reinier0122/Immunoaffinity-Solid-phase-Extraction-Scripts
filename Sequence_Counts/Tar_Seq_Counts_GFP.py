@@ -1,5 +1,3 @@
-Sequence-Counts/Tar_Seq_Counts_GFP.py
-
 import os
 import re
 
