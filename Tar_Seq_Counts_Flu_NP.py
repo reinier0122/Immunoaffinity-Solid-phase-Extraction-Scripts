@@ -93,7 +93,7 @@ if __name__ == "__main__":
         "H1N1 Virus": "CGCATTTGAAGATCTAAGAGTATTAAGCTTCATCAAAGGGACGAAGGTGCTCCCAAGAGGGAAGCTT"
     }
     
-    folder_path = r"/Volumes/Rey's ExHDD/Alpha-Gal_Data/Illumina_Sequences/2026_Data/11_November_2026/Final_Sequences"
+    folder_path = r""
     
     # Display configuration
     print(f"Folder path: {folder_path}\n")
