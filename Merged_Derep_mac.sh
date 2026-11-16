@@ -1,3 +1,5 @@
+Sequence-Counts/Merged_Derep_mac.sh
+
 #!/bin/bash
 # =============================================================================
 # Paired-end Illumina amplicon preprocessing pipeline (Alpha-Gal)
@@ -14,8 +16,8 @@
 
 # ------------------------------ Configuration --------------------------------
 # Paths
-BASE="/Users/reiniersuarez/Library/CloudStorage/Dropbox/Alpha-Gal_Project/Python_Scripts_aGal"
-DATA="/Volumes/Rey's ExHDD/Alpha-Gal_Data/Illumina_Sequences/2026_Data/11_November_2026"
+BASE=""
+DATA=""
 
 # Analysis parameters — the knobs worth reviewing per run / amplicon.
 # NOTE: these values are UNCHANGED from your original script; they're just
