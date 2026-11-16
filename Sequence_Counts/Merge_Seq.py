@@ -1,5 +1,3 @@
-Sequence-Counts/Merge_Seq.py
-
 #!/usr/bin/env python3
 """
 Quality Filter and Adapter Trimming Script using BBDuk
