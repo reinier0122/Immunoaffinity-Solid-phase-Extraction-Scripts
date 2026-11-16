@@ -1,5 +1,3 @@
-Sequence-Counts/derep.py
-
 #!/bin/env python3
 
 import os
