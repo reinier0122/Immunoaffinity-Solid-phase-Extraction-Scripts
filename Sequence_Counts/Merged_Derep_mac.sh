@@ -1,5 +1,3 @@
-Sequence-Counts/Merged_Derep_mac.sh
-
 #!/bin/bash
 # =============================================================================
 # Paired-end Illumina amplicon preprocessing pipeline (Alpha-Gal)
