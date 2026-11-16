@@ -1,3 +1,5 @@
+Sequence-Counts/Merge_Seq.py
+
 #!/usr/bin/env python3
 """
 Quality Filter and Adapter Trimming Script using BBDuk
@@ -12,10 +14,10 @@ from pathlib import Path
 
 # ============ CONFIGURATION ============
 # Path to BBDuk
-BBDUK_PATH = "/Users/reiniersuarez/Documents/Alpha-Gal_Project/Python_Scripts_aGal/bbmap/bbduk.sh"
+BBDUK_PATH = ""
 
 # Input directory containing FASTA/FASTQ files
-INPUT_FOLDER = "/Users/reiniersuarez/Documents/Alpha-Gal_Project/Alpha-Gal_Data/Illumina_Sequences/2026_Data/February_2026/02-06-26/02-06-26/Unzipped/GFP"
+INPUT_FOLDER = ""
 
 # Output folder name (will be created inside INPUT_FOLDER)
 OUTPUT_FOLDER_NAME = "Cleaned_Sequences"
